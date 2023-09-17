@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1.Hafta.iml" filepath="$PROJECT_DIR$/.idea/1.Hafta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boy-Kilo-Endeksi-Hesaplama/Boy-Kilo-Endeksi-Hesaplama.iml" filepath="$PROJECT_DIR$/Boy-Kilo-Endeksi-Hesaplama/Boy-Kilo-Endeksi-Hesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DaireAlan/DaireAlan.iml" filepath="$PROJECT_DIR$/DaireAlan/DaireAlan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hipotenüs Hesaplama/Hipotenüs Hesaplama.iml" filepath="$PROJECT_DIR$/Hipotenüs Hesaplama/Hipotenüs Hesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kdv Hesaplama/Kdv Hesaplama.iml" filepath="$PROJECT_DIR$/Kdv Hesaplama/Kdv Hesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Manav-Ucret-Hesaplama/Manav-Ucret-Hesaplama.iml" filepath="$PROJECT_DIR$/Manav-Ucret-Hesaplama/Manav-Ucret-Hesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ortalama Alma/Ortalama Alma.iml" filepath="$PROJECT_DIR$/Ortalama Alma/Ortalama Alma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taksimetre-Program/Taksimetre-Program.iml" filepath="$PROJECT_DIR$/Taksimetre-Program/Taksimetre-Program.iml" />
+    </modules>
+  </component>
+</project>
