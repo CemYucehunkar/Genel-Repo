@@ -6,9 +6,11 @@
     <mapping directory="$PROJECT_DIR$/DaireAlan" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Hipotenüs Hesaplama" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Kdv Hesaplama" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Kullanici-Girisi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Manav-Ucret-Hesaplama" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Ortalama Alma" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Ortalama Alma/Patika-Plus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sicakliga-Gore-Etkinlik-Oneren-Program" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Taksimetre-Program" vcs="Git" />
   </component>
 </project>
